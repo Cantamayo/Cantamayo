@@ -3,7 +3,7 @@
 
   <br>
 
-  <h1 style="color:#007acc;">Ing. de Datos & Data Scientist</h1>
+  <h1 style="color:#007acc;">Ing. de Datos & Data Analyst</h1>
 
 </div>
 
